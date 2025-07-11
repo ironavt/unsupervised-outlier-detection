@@ -1,0 +1,16 @@
+name: unsode
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - scipy
+  - plotly
+  - seaborn
+  - statsmodels
+  - numpy
+  - jupyter
+  - optuna
+prefix: /opt/miniconda3/envs/unsode
