@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+scipy
+tqdm
+tensorflow
+tensorflow-addons==0.20.0
+jupyter
