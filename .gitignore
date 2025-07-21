@@ -1,1 +1,3 @@
 .DS_Store
+lstm_model_save/
+lstm-ae-checkpoint/
